@@ -3,7 +3,7 @@ import requests
 import json
 
 # ضع التوكن الخاص ببوتك هنا من BotFather
-TOKEN = "YOUR_TELEGRAM_BOT_TOKEN_HERE"
+TOKEN = "8254745519:AAGrnYDAslj-CSgVg4yz8UXQbgQxMxPrHH8"
 bot = TeleBot(TOKEN)
 
 # قاموس لتخزين بيانات العميل المؤقتة أثناء الخطوات
